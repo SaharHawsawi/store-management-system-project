@@ -1,4 +1,4 @@
-# computer-programming-2-project
+# store management system project
 a simple store management system called Tech Store, containing products and customers, and displays information about the organization, its products, and its customers in the console.
 # About the project
 a Java-based project developed as part of the Programming 2 course. it demonstrates important Object-Oriented Programming (OOP) concepts by modeling a simple organization that contains products and customers using four classes: App, Product, Customer, and Organization. The application provides a practical example of how classes, objects, constructors, encapsulation, arrays of objects, and method overriding can work together to represent a real-world business scenario.
